@@ -1,0 +1,76 @@
+{
+  "product": [
+    {
+      "name": "RoadsterTee",
+      "price": "12",
+      "category": "Tshirt",
+      "quantity": "200",
+      "inStock": "No",
+      "id": 2
+    },
+    {
+      "name": "testlaptop",
+      "quantity": "3",
+      "price": "123",
+      "category": "Laptop",
+      "inStock": "no",
+      "id": 3
+    },
+    {
+      "name": "sad",
+      "quantity": "4",
+      "price": "1200",
+      "category": "Tshirt",
+      "inStock": "yes",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "mobile101",
+      "quantity": "2",
+      "price": "1200",
+      "category": "Mobile",
+      "inStock": "no"
+    },
+    {
+      "name": "tree",
+      "price": "12",
+      "category": "Trouser",
+      "quantity": "3",
+      "inStock": "yes",
+      "id": 6
+    },
+    {
+      "name": "f",
+      "price": "123",
+      "category": "Trouser",
+      "quantity": "123",
+      "inStock": "No",
+      "id": 7
+    },
+    {
+      "name": "teseee",
+      "price": "123",
+      "category": "Trouser",
+      "quantity": "123",
+      "inStock": "No",
+      "id": 8
+    },
+    {
+      "name": "ree",
+      "price": "23",
+      "category": "Laptop",
+      "quantity": "23",
+      "inStock": "No",
+      "id": 9
+    },
+    {
+      "name": "oneplus",
+      "price": "2000",
+      "category": "Mobile",
+      "quantity": "2",
+      "inStock": "No",
+      "id": 10
+    }
+  ]
+}
